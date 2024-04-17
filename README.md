@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello! Welcome to my page, I'm Sean
 
-<!--
-**SeanS-code/SeanS-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![8392211](https://github.com/SeanS-code/SeanS-code/assets/63816003/e7d0621f-3b41-4a7e-8657-0316d69fc4b0)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Recent Projects
+
+## Current Project
+
+## Technologies Used
+
+<a href="https://www.freepik.com/free-vector/sunrise-mountain-concept-illustration_36241997.htm#fromView=search&page=1&position=24&uuid=0d2466fa-bd55-4bfb-8f9a-149d9772f481">Image by storyset</a> on Freepik
