@@ -4,10 +4,30 @@
 
 ## About Me
 
-## Recent Projects
+I'm a software engineer who graduated from Toronto Metropolitan University, and have been exploring the numerous spheres of software development - from Full Stack Development to Machine Learning.
 
-## Current Project
+I love the challenge of learning new things and working through tough problems - even when those problems may take bits of my sanity.
 
-## Technologies Used
+I'm confident that my passion for learning and creating will be a valuable asset in my journey to becoming a professional programmer.
+
+## Current Projects
+
+Currently working on... 
+- **Developing a GANs model on non-image data**:<br><br>
+  I have always found GANs and their generative properties to be very intriguing, even more in their abilities to complete missing information or in its ability to augment data for other ML models. I want to explore this property and expand it to data outside of images, to see and hopefully expand the uses of the GAN architecture.<br>
+ 
+- **Mobile App using React-Native**<br><br>
+  As an avid phone user (it might be a problem), apps are incredible bits of tech. As such, I feel morally obligated to expand my use of these apps to creating one myself - so I've decided to try and create a simple mobile app that could help dip my toes into mobile app development.<br>
+
+- **An Algorithm Visualize**r<br><br>
+  Though I enjoy creating and learning code, algorithms are the bane of my existence - but they are incredibly valuable. So to improve that weakness, I'm going to combine my love of making and hatred for algorithm practice together to create a satisfactory learning/practice experience. (yay...)<br>
+
+## Technologies
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 <a href="https://www.freepik.com/free-vector/sunrise-mountain-concept-illustration_36241997.htm#fromView=search&page=1&position=24&uuid=0d2466fa-bd55-4bfb-8f9a-149d9772f481">Image by storyset</a> on Freepik
