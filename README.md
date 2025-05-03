@@ -8,7 +8,7 @@ I'm a software engineer who graduated from Toronto Metropolitan University, and 
 
 I love the challenge of learning new things and working through tough problems - even when those problems may take bits of my sanity.
 
-I'm confident that my passion for learning and creating will be a valuable asset in my journey to becoming a professional programmer.
+I'm confident that my passion for learning and creating will be a valuable asset in my journey to becoming a software developer.
 
 ## Current Projects
 
